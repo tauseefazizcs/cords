@@ -1,0 +1,53 @@
+#main{
+    background: #10011f;
+        padding: 130px 80px 0px 80px;
+}
+
+.container{
+
+	background: #35243c;
+    color: white;
+    height: 400px;
+
+}
+
+h1{
+
+	padding: 35px 30px 0px 30px;
+    font-family: arial;
+}
+
+h3{
+
+    font-family: arial;
+    margin-top: 180px;
+    margin-bottom: 0px;
+    font-size: 21px;
+}
+
+span{
+	    color: #c154e4;
+}
+
+
+ img{
+	 float: right;
+    height: 100%;
+    width: 50%;
+    margin-top: -221px;
+}
+
+p{
+	font-size: 15px;
+    font-family: system-ui;
+    float: right;
+    padding: 0px 423px 0px 30px;
+    color:#908484;
+}
+
+#foot{
+    font-size: 12px;
+    font-family: system-ui;
+    color: #908484;
+    padding: 30px;
+}
